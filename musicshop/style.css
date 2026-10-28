@@ -64,7 +64,7 @@ p {
 .nav-links {
     display: flex;
     align-items: center;
-    gap: 6vw;
+    gap: 60px;
 }
 
 .nav-links a {
