@@ -1,6 +1,6 @@
 # Yrityksen verkkosivusto HTML:llä ja CSS:llä
 
-Etusivu: [Avaa verkkosivun valikko](https://einoojala.github.io/verkkosivutehtava/)
+Etusivu: [Avaa linkkien valikko](https://einoojala.github.io/verkkosivutehtava/)
 
 ## Verkkosivut HTML 
 
